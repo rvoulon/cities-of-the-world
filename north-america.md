@@ -10,3 +10,5 @@
 # Chicago
 
 - [Things to do in Chicago](http://www.choosechicago.com/)
+
+# Toronto
